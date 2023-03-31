@@ -1,5 +1,4 @@
-<!-- ### 👋 -->
-<div><h1>📚STACKS</h1></div>
+<h1>📚 SKILLS</h1>
 
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -17,6 +16,14 @@
   <br>
 
 </div>
+<br>
+<h1>📫 CONTACT</h1>
+<div>
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat&logo=Gmail&logoColor=white"&link=mailto:kgukgu33@gmail.com"/>
+<!--                                                                                                                             &nbsp;
+  <span>kgukgu33@gmail.com</span> -->
+</div>
+
 <!--
 **HannahKim33/HannahKim33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
