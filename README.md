@@ -20,9 +20,9 @@
 <h1>📫 CONTACT</h1>
 <div>
 <!--   <a href="mailto:kgukgu33@gmail.com"> -->
-<!--   <img src="https://img.shields.io/badge/-EA4335?style=flat&logo=Gmail&logoColor=white"/>&nbsp;
-  <span></span>
-</div> -->
+  <img src="https://img.shields.io/badge/-EA4335?style=flat&logo=Gmail&logoColor=white"/>&nbsp;
+  <span>kgukgu33@gmail.com</span>
+</div>
 
 <!--
 **HannahKim33/HannahKim33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
