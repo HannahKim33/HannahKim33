@@ -19,7 +19,9 @@
 <br>
 <h1>📫 CONTACT</h1>
 <div>
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat&logo=Gmail&logoColor=white"&link=mailto:kgukgu33@gmail.com"/>
+  <a href="mailto:kgukgu33@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
 <!--                                                                                                                             &nbsp;
   <span>kgukgu33@gmail.com</span> -->
 </div>
