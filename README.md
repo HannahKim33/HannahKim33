@@ -21,7 +21,7 @@
 <div>
 <!--   <a href="mailto:kgukgu33@gmail.com"> -->
 <!--   <img src="https://img.shields.io/badge/-EA4335?style=flat&logo=Gmail&logoColor=white"/>&nbsp;
-  <span>kgukgu33@gmail.com</span>
+  <span></span>
 </div> -->
 
 <!--
